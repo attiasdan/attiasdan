@@ -26,13 +26,15 @@
 </a>
 
 #### Emblemas de algumas tecnologias que já utilizei:
-<img alt="html-5" title="html-5" height="40" width="40" src="./assets/img/html-5.png">
-<img alt="css-3" title="css-3" height="40" width="40" src="./assets/img/css-3.png">
-<img alt="javascript" title="javascript" height="40" width="40" src="./assets/img/js.png">
-<img alt="php" title="php" height="40" width="40" src="./assets/img/php.png">
-<img alt="java" title="java" height="40" width="40" src="./assets/img/java.png">
-<img alt="c/c++" title="c/c++" height="40" width="40" src="./assets/img/cplusplus.png">
-<img alt="python" title="python" height="44" width="44" src="./assets/img/python.png">
-<img alt="bootstrap" title="bootstrap" height="38" width="38" src="./assets/img/bootstrap.png">
-<img alt="materialize" title="materialize" height="35" width="55" src="./assets/img/materialize.png">
-<img alt="jquery" title="jquery" height="40" width="40" src="./assets/img/jquery.png">
+<div style="display: inline-block">
+    <img alt="html-5" title="html-5" height="40" width="40" src="./assets/img/html-5.png">
+    <img alt="css-3" title="css-3" height="40" width="40" src="./assets/img/css-3.png">
+    <img alt="javascript" title="javascript" height="40" width="40" src="./assets/img/js.png">
+    <img alt="php" title="php" height="40" width="40" src="./assets/img/php.png">
+    <img alt="java" title="java" height="40" width="40" src="./assets/img/java.png">
+    <img alt="c/c++" title="c/c++" height="40" width="40" src="./assets/img/cplusplus.png">
+    <img alt="python" title="python" height="44" width="44" src="./assets/img/python.png">
+    <img alt="bootstrap" title="bootstrap" height="38" width="38" src="./assets/img/bootstrap.png">
+    <img alt="materialize" title="materialize" height="35" width="55" src="./assets/img/materialize.png">
+    <img alt="jquery" title="jquery" height="40" width="40" src="./assets/img/jquery.png">
+</div>
