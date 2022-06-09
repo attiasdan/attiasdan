@@ -14,7 +14,7 @@
 - Consultoria de Software;
 - Acessibilidade;
 
-##### Emblemas de algumas tecnologias que já utilizei:
+#### Emblemas de algumas tecnologias que já utilizei:
 <div style="display: inline_block">
     <img alt="html-5" title="html-5" height="40" width="40" src="./assets/img/html-5.png">
     <img alt="css-3" title="css-3" height="40" width="40" src="./assets/img/css-3.png">
