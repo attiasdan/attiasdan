@@ -1,5 +1,5 @@
 # Olá, sou o Daniel!
-### Trabalho atualmente como Desenvolvedor Web e Instrutor de Tecnologias da Computação e Informação Freelance.
+### Atualmente, sou Freelance trabalhando como Desenvolvedor Web e Instrutor de Tecnologias da Computação e Informação.
 ### Também, estou cursando graduação em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR e participando do Programa DevStart PayLivre Be Academy, sendo 1(um) dos 100(cem) selecionados.
 
 
