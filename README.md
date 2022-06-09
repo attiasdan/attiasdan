@@ -15,18 +15,20 @@
 - Acessibilidade;
 
 ### Meios de Contato:
-<a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
-    <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a target="_blank" href="https://www.instagram.com/daniel_attias_/">
-    <img height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a target="_blank" href="https://encurtador.com.br/MP017">
-    <img height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+<div style="display: inline-block;">
+    <a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
+        <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target="_blank" href="https://www.instagram.com/daniel_attias_/">
+        <img height="30" width="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target="_blank" href="https://encurtador.com.br/MP017">
+        <img height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</div>
 
 #### Emblemas de algumas tecnologias que já utilizei:
-<div style="display: inline-block">
+<div style="display: inline-block;">
     <img alt="html-5" title="html-5" height="40" width="40" src="./assets/img/html-5.png">
     <img alt="css-3" title="css-3" height="40" width="40" src="./assets/img/css-3.png">
     <img alt="javascript" title="javascript" height="40" width="40" src="./assets/img/js.png">
