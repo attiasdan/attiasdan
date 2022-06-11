@@ -13,6 +13,7 @@
 - Educação Tecnológica;
 - Consultoria de Software;
 - Acessibilidade;
+- Metodologias Ágeis;
 
 ### Meios de Contato:
 <div style="display: inline-block;">
