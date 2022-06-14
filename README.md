@@ -2,9 +2,9 @@
 
 ### Me chamo Daniel, prazer!
 
-### No momento, trabalho como freelance nas áreas de desenvolvimento de aplicações web e instrução de tecnologias de informação e comunicação.
+### No momento, trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação.
 
-### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR e participando do Programa DevStart PayLivre Be Academy, sendo 1(um) dos 100(cem) selecionados.
+### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy.
 
 ### Bora marcar pra bater um papo ou tomar um café! Estou disponível para novas parcerias.
 
