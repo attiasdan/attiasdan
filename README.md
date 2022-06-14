@@ -1,6 +1,12 @@
-# Olá, sou o Daniel!
-### Atualmente, sou Freelance e trabalho com Desenvolvimento Web e Instrução de Tecnologias da Informação e Comunicação.
-### Também, estou cursando graduação em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR e participando do Programa DevStart PayLivre Be Academy, sendo 1(um) dos 100(cem) selecionados.
+## Bem vindo(a) ao meu perfil no Github!
+
+### Me chamo Daniel, prazer!
+
+### No momento, trabalho como freelance nas áreas de desenvolvimento de aplicações web e instrução de tecnologias de informação e comunicação.
+
+### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR e participando do Programa DevStart PayLivre Be Academy, sendo 1(um) dos 100(cem) selecionados.
+
+### Bora marcar pra bater um papo ou tomar um café! Estou disponível para novas parcerias.
 
 <a href="#">
     <img width="70%" src="https://github-readme-stats.vercel.app/api?username=attiasdan&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
