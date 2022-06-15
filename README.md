@@ -1,12 +1,12 @@
-## Bem vindo(a) ao meu perfil no Github!
+## Bem vindo(a) ao meu perfil no Github! :tada:
 
-### Me chamo Daniel, prazer!
+### Me chamo Daniel, prazer! :wave:
 
-### No momento, trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação.
+### No momento, trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. :construction_worker: 
 
-### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy.
+### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy. :rocket: 
 
-### Bora marcar pra bater um papo ou tomar um café! Estou disponível para novas parcerias.
+### Bora marcar pra bater um papo ou tomar um café! Estou disponível para novas parcerias. :coffee: 
 
 <a href="#">
     <img width="70%" src="https://github-readme-stats.vercel.app/api?username=attiasdan&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
@@ -14,14 +14,14 @@
 </a>
 
 
-### Áreas de Interesse:
+### :satellite: Áreas de Interesse:
 - Desenvolvimento Web;
 - Educação Tecnológica;
 - Consultoria de Software;
 - Acessibilidade;
 - Metodologias Ágeis;
 
-### Meios de Contato:
+### :telephone: Meios de Contato:
 <div style="display: inline-block;">
     <a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
         <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
