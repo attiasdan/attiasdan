@@ -1,19 +1,19 @@
 <center>
 
-## Bem vindo(a) ao meu perfil no Github! :tada:
+# Bem vindo(a) ao meu perfil no Github! :tada:
 
-### Me chamo Daniel, prazer! :wave:
+## Me chamo Daniel, prazer! :wave:
 
-### No momento, trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. :construction_worker: 
+## No momento, trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. :construction_worker: 
 
-### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy. :rocket: 
+## Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy. :rocket: 
 
-### Bora marcar pra bater um papo ou tomar um café! :coffee: 
-### Estou disponível para novas parcerias.
+## Bora marcar pra bater um papo ou tomar um café! :coffee: 
+## Estou disponível para novas parcerias.
 
 
 ---
-### :telephone: Meios de Contato:
+### Meios de Contato :telephone:
 <div style="display: inline-block;">
     <a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
         <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,7 +28,7 @@
 </center>
 
 ---
-### :satellite: Áreas de Interesse:
+### Áreas de Interesse :satellite:
 - Desenvolvimento Web;
 - Educação Tecnológica;
 - Consultoria de Software;
@@ -38,7 +38,7 @@
 ---
 <div style="text-align:right;">
 
-### Algumas tecnologias que já utilizei:
+### Algumas tecnologias que já utilizei
 
 <div style="display: inline-block;">
     <img alt="html-5" title="html-5" height="40" width="40" src="./assets/img/html-5.png">
