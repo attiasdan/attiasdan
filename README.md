@@ -1,3 +1,5 @@
+<center>
+
 ## Bem vindo(a) ao meu perfil no Github! :tada:
 
 ### Me chamo Daniel, prazer! :wave:
@@ -6,21 +8,11 @@
 
 ### Também, sou graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy. :rocket: 
 
-### Bora marcar pra bater um papo ou tomar um café! Estou disponível para novas parcerias. :coffee: 
-
-<a href="#">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=attiasdan&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attiasdan&layout=compact&langs_count=7&theme=merko" />
-</a>
+### Bora marcar pra bater um papo ou tomar um café! :coffee: 
+### Estou disponível para novas parcerias.
 
 
-### :satellite: Áreas de Interesse:
-- Desenvolvimento Web;
-- Educação Tecnológica;
-- Consultoria de Software;
-- Acessibilidade;
-- Metodologias Ágeis;
-
+---
 ### :telephone: Meios de Contato:
 <div style="display: inline-block;">
     <a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
@@ -33,8 +25,21 @@
         <img height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </div>
+</center>
 
-#### Emblemas de algumas tecnologias que já utilizei:
+---
+### :satellite: Áreas de Interesse:
+- Desenvolvimento Web;
+- Educação Tecnológica;
+- Consultoria de Software;
+- Acessibilidade;
+- Metodologias Ágeis;
+
+---
+<div style="text-align:right;">
+
+### Algumas tecnologias que já utilizei:
+
 <div style="display: inline-block;">
     <img alt="html-5" title="html-5" height="40" width="40" src="./assets/img/html-5.png">
     <img alt="css-3" title="css-3" height="40" width="40" src="./assets/img/css-3.png">
@@ -46,4 +51,5 @@
     <img alt="bootstrap" title="bootstrap" height="38" width="38" src="./assets/img/bootstrap.png">
     <img alt="materialize" title="materialize" height="35" width="55" src="./assets/img/materialize.png">
     <img alt="jquery" title="jquery" height="40" width="40" src="./assets/img/jquery.png">
+</div>
 </div>
