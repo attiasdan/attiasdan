@@ -1,5 +1,3 @@
-<center>
-
 # Bem vindo(a) ao meu perfil no Github!
 
 ### :construction_worker: Trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. 
@@ -12,7 +10,7 @@
 
 ---
 ### :telephone: Meios de Contato
-<div style="display: inline-block;">
+<div style="display: inline-block;" align="center">
     <a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
         <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -23,7 +21,6 @@
         <img height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </div>
-</center>
 
 ---
 ### :satellite: Áreas de Interesse
@@ -34,7 +31,7 @@
 - Metodologias Ágeis;
 
 ---
-<div style="text-align:right;">
+<div align="center">
 
 ### Algumas tecnologias que já utilizei
 
@@ -50,4 +47,6 @@
     <img alt="materialize" title="materialize" height="35" width="55" src="./assets/img/materialize.png">
     <img alt="jquery" title="jquery" height="40" width="40" src="./assets/img/jquery.png">
 </div>
+
 </div>
+
