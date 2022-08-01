@@ -1,7 +1,6 @@
 <center>
 
 # Bem vindo(a) ao meu perfil no Github!
-### Me chamo Daniel, prazer!
 
 ### :construction_worker: Trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. 
 
@@ -12,7 +11,7 @@
 
 
 ---
-### Meios de Contato :telephone:
+### :telephone: Meios de Contato
 <div style="display: inline-block;">
     <a target="_blank" href="https://www.linkedin.com/in/daniel-attias/">
         <img height="30" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,7 +26,7 @@
 </center>
 
 ---
-### Áreas de Interesse :satellite:
+### :satellite: Áreas de Interesse
 - Desenvolvimento Web;
 - Educação Tecnológica;
 - Consultoria de Software;
