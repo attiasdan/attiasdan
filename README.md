@@ -1,7 +1,7 @@
 <center>
 
-# Bem vindo(a) ao meu perfil no Github! :tada:
-Me chamo Daniel, prazer! :wave:
+# Bem vindo(a) ao meu perfil no Github!
+### Me chamo Daniel, prazer!
 
 ### :construction_worker: Trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. 
 
