@@ -3,7 +3,7 @@
 # Bem vindo(a) ao meu perfil no Github! :tada:
 Me chamo Daniel, prazer! :wave:
 
-### :construction_worker: Trabalhando como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. 
+### :construction_worker: Trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. 
 
 ### :rocket:  Graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy.
 
