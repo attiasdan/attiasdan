@@ -1,8 +1,8 @@
 ### :construction_worker: Trabalho como Freelance nas Áreas de Desenvolvimento de Aplicações Web e Instrução de Tecnologias da Informação e Comunicação. 
 
-### :rocket:  Graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e, participante do Programa DevStart PayLivre Be Academy.
+### :rocket:  Graduando em Licenciatura em Computação pela Universidade Federal de Rondônia - UNIR, e participante do Programa DevStart PayLivre Be Academy.
 
-### :coffee:  Bora marcar pra bater um papo ou tomar um café!
+### :coffee:  Bora marcar pra bater um papo e tomar um café!
 ### Estou disponível para novas parcerias.
 
 <div style="display: inline-block;" align="center">
